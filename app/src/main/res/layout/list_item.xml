@@ -42,5 +42,6 @@
             android:textColor="@android:color/white"
             tools:text="one" />
     </LinearLayout>
+
 </LinearLayout>
 
